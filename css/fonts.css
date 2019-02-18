@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'NunitoSansBlack';
+    src: url('../fonts/Nunito_Sans/NunitoSans-Black.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'NunitoSansExtrabold';
+    src: url('../fonts/Nunito_Sans/NunitoSans-ExtraBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'NunitoSansBlackItalic';
+    src: url('../fonts/Nunito_Sans/NunitoSans-BlackItalic.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'NunitoSansBold';
+    src: url('../fonts/Nunito_Sans/NunitoSans-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'NunitoSansBoldItalic';
+    src: url('../fonts/Nunito_Sans/NunitoSans-BoldItalic.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'NunitoSansSemiBold';
+    src: url('../fonts/Nunito_Sans/NunitoSans-SemiBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand-Medium';
+    src: url('../fonts/Quicksand/Quicksand-Medium.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
